@@ -1,0 +1,71 @@
+#calc {
+	margin: auto;
+	margin-top: 100px;
+	width: 250px;
+	background: #ddd;
+	padding: 0 15px 15px 15px; 
+	border: 1px solid black;
+	-webkit-box-shadow: 0px 0px 14px 8px black;
+}
+
+#screen   { 
+	font-family: 'Orbitron', sans-serif;
+	width: 100%;
+    font-size: 36px;
+    padding: 5px;
+    text-align: right;
+    box-sizing: border-box;
+    margin-top: 15px;
+}
+
+input[type="button"]{
+	width: 58px;
+	height: 60px;
+	background: #aaa;
+	color: #fff;
+	font-size: 25px;
+	margin-bottom: 5px;
+}
+
+#calc hr {
+	
+	margin: 15px 0px; 
+}
+
+
+.add a {
+	color: red;
+	font-size: 20px;
+	text-decoration: none;
+	position: absolute;
+	top: 10px;
+	right: 10px; 
+	display: none;
+}
+.add {
+	width: 1000px;
+	position: fixed; 
+	top: 40px;
+	right: 30px;
+}
+.add img {
+	width: 100%;
+}
+.add:hover a{display: block;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
